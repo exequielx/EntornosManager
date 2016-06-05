@@ -301,8 +301,6 @@ public class Main extends javax.swing.JFrame {
         );
 
         jTextPane_log.setEditable(false);
-        jTextPane_log.setBackground(new java.awt.Color(0, 0, 0));
-        jTextPane_log.setForeground(new java.awt.Color(0, 255, 0));
         jScrollPane5.setViewportView(jTextPane_log);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
